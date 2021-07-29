@@ -19,6 +19,13 @@ java专家学习清单
 
 #### Set
 
+#### StringBuilder & StringBuffer
+
+#### 关键字
+- final
+- voliate
+- transient
+
 ### jvm
 #### 内存区域
 #### 回收算法
@@ -49,6 +56,13 @@ java专家学习清单
 ## middware
 
 ### redis
+#### 数据类型
+#### 集群
+#### 持久化
+#### 其它
+- 数据库和缓存一致性
+- 数据穿透
+- 缓存雪崩
 
 ### zk
 
@@ -57,6 +71,11 @@ java专家学习清单
 ## db
 
 ### mysql
+#### 存储引擎
+#### 索引
+#### 集群
+#### 优化
+#### explain
 
 ## 算法
 
